@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Program
+comment1.params=
+comment1.target=java.lang.String\ name()
+comment1.text=\r\n\ Return\ the\ name\r\n\ @return\r\n
+comment2.params=
+comment2.target=int\ weeks()
+comment2.text=\r\n\ Return\ weeks\r\n\ @return\r\n\ @throws\ IEMOISException,\ if\ the\ time\ is\ not\ available\ or\ has\ an\ error\r\n
+comment3.params=
+comment3.target=java.lang.String\ data()
+comment3.text=\r\n\ Return\ the\ representation\ as\ string\r\n\ @return\r\n\ @throws\ IEMOISException,\ if\ the\ data\ is\ not\ complete\r\n
+numComments=4

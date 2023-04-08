@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=name\ weeks
+comment1.target=Course(java.lang.String,\ java.lang.Integer)
+comment2.params=
+comment2.target=int\ weeks()
+comment2.text=\r\n\ Get\ the\ number\ of\ weeks\ that\ has\ the\ course.\r\n\ @throws\ IEMOISException\ WEEKS_EMPTY,\ if\ the\ week\ cannot\ be\ known.\ WEEKS_ERROR,\ if\ the\ weeks\ is\ less\ than\ one.\r\n\ @return\ weeks.\r\n
+comment3.params=
+comment3.target=int\ getWeeks()
+comment3.text=\r\n\ Get\ the\ weeks\ of\ the\ course\ \r\n\ No\ matter\ if\ does\ not\ has\ weeks\r\n\ @return\ weeks\ \r\n
+comment4.params=type
+comment4.target=int\ weeks(int)
+comment4.text=\r\n\ Get\ the\ number\ of\ weeks\ at\ the\ course.\r\n\ If\ it\ is\ null\ then\ return\ the\ prom\ give\ it\r\n\ @param\ type.\ If\ the\ week\ is\ null\ we\ assumed\ like\ the\ max,\ min\ or\ avg.\r\n\ @return\ weeks.\r\n
+comment5.params=
+comment5.target=java.lang.String\ data()
+numComments=6
